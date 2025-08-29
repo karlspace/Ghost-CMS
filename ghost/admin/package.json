@@ -67,7 +67,7 @@
     "broccoli-terser-sourcemap": "4.1.1",
     "chai": "4.5.0",
     "chai-dom": "1.12.1",
-    "codemirror": "5.48.2",
+    "codemirror": "5.58.2",
     "cssnano": "4.1.10",
     "element-resize-detector": "1.2.4",
     "ember-ajax": "5.1.2",
@@ -150,7 +150,7 @@
     "testem": "3.16.0",
     "tracked-built-ins": "3.4.0",
     "util": "0.12.5",
-    "validator": "13.12.0",
+    "validator": "13.15.0",
     "walk-sync": "3.0.0"
   },
   "ember-addon": {
